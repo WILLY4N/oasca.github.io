@@ -1,0 +1,40 @@
+h1{
+    text-align: center;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+h3{
+    text-align: center;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.divLeft {
+    width: 49.5%;
+    height: 949px;
+    float: left;
+    position: relative;
+}
+
+#spaceText {
+    padding-right: 16px;
+    height: fit-content;
+    width: fit-content;
+    font-size: 80px;
+    background-color: black;
+    color: yellow;
+}
+
+#photo {
+    width: 1600px;
+    height: 949px;
+    position: relative;
+}
+
+.textDiv{
+   position: absolute;
+   top: 20px;
+   left: 20px;
+   
+   /*cor apenas para exmplo*/
+   color: #fff;
+}
